@@ -1,0 +1,23 @@
+body{
+    font-family: 'Chivo Mono', monospace;
+font-family: 'Poppins', sans-serif;
+}
+span{
+    color: #4F29DD;
+    
+}
+h2{
+    font-weight: 700;
+}
+.btn{
+background-color: #8B64FB;
+color: white;
+padding: 8px 18px;
+border-radius: 30px;
+
+}
+
+.d-flex :hover{
+    border: 1px solid #8B64FB;
+    color: #8B64FB;
+}
