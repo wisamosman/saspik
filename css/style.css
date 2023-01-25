@@ -88,3 +88,13 @@ border-radius: 30px;
     font-size: 25px;
 
 }
+
+.ib1,ib2,ib3{
+    color: #312350;
+}
+.ib2{
+    font-size: 33px;
+}
+.image-fluid{
+    width: 300px;
+}
