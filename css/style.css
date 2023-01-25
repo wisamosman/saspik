@@ -96,5 +96,24 @@ border-radius: 30px;
     font-size: 33px;
 }
 .image-fluid{
-    width: 300px;
+    width: 280px;
+    margin-left: 61px;
+}
+.nm{
+    background-color: #F7F6FA;
+}
+.nm1{
+    margin-left: 146px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.nm2{
+    margin-left: 110px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.nm1 :hover{
+    border-bottom: 2px solid blue;
 }
