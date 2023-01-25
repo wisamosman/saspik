@@ -72,7 +72,7 @@ border-radius: 30px;
 }
 .as6{
     
-border: 3px solid #FFFFFF;
+    border: 1px solid #FFFFFF ;
 }
 
 .as7{
@@ -82,6 +82,7 @@ border: 3px solid #FFFFFF;
     margin-bottom: 32px;
 }
 .as20 :hover{
-background-color: gray;
-    
+
+    box-shadow: 1px 1px 15px  black ;
+    background-color: white;
 }
