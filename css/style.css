@@ -67,3 +67,21 @@ border-radius: 30px;
     width: 614px;
     margin-left: -11px;
 }
+.as3{
+    background-color: #FFFFFF;
+}
+.as6{
+    
+border: 3px solid #FFFFFF;
+}
+
+.as7{
+    margin-top: 100px;
+}
+.as9{
+    margin-bottom: 32px;
+}
+.as20 :hover{
+background-color: gray;
+    
+}
