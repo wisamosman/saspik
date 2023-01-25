@@ -35,4 +35,35 @@ border-radius: 30px;
 }
 .ar{
     color: #797687;
+    margin-bottom: 60px;
+}
+.aw1{
+    display: inline;
+   
+    
+}
+.aw{ 
+    border: 1px solid #7052FB ;
+    text-decoration: none;
+    color:  #7052FB;
+    padding: 10px 14px;
+    border-radius: 30px;
+}
+.as{
+    font-size: 40px;
+    font-weight: 400;
+    color: #2B2350;
+}
+.as1{
+    font-size: 45px;
+    font-weight: 700;
+    color: #2B2350;
+}
+.aw1 :hover{
+    background-color: #4F29DD;
+    color: white;
+}
+.as2{
+    width: 614px;
+    margin-left: -11px;
 }
